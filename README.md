@@ -98,4 +98,17 @@ ConfirmaID foi o vencedor da **Hackathon SECCOM 2024**.
 - Adicionar notificações periódicas para atualização de dados.
 - Expandir o suporte para novos modelos de autenticação digital.
 
-Agradecemos o interesse em nosso projeto e estamos abertos a colaborações e sugestões! 🎉
+![image](https://github.com/user-attachments/assets/6cd2629e-1724-46c6-bb17-969959ad8280)
+![image](https://github.com/user-attachments/assets/6197bbd4-85b1-48be-be6d-d7e5587fe751)
+![image](https://github.com/user-attachments/assets/bfb6fe29-650f-4be7-ac55-23d737c43157)
+![image](https://github.com/user-attachments/assets/f6717320-0b56-4dc4-952b-7749d3db51f9)
+![image](https://github.com/user-attachments/assets/31fbd22e-2038-4321-8b67-29f6f1bf5fbb)
+![image](https://github.com/user-attachments/assets/9fc95cbf-c9fb-43ca-92a7-38b3752133a7)
+![image](https://github.com/user-attachments/assets/85b7c363-0b51-4c56-8762-81b97fd6357d)
+![image](https://github.com/user-attachments/assets/e293660f-ff84-4aac-b922-1c8b279b3d25)
+
+
+
+
+
+
