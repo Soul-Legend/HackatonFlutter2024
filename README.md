@@ -3,6 +3,7 @@
 ConfirmaID é um aplicativo desenvolvido em Flutter que utiliza assinaturas digitais e funções de hash para verificar a identidade de usuários em interações digitais. Foi projetado como uma solução prática para mitigar fraudes de identidade, com um fluxo de cadastro, autenticação e consulta de informações que assegura privacidade, segurança e conformidade com a legislação de proteção de dados.
 
 Este projeto foi desenvolvido durante a Hackathon da SECCOM 2024 no decorrer de 5 dias, na qual conquistou o **1º lugar**. O tema do evento foi "Segurança".
+
 ---
 
 ## 🔍 Funcionamento
