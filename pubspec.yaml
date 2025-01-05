@@ -1,0 +1,44 @@
+name: confirma_id
+description: .
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  connectivity_plus: ^6.1.0
+  crypto: ^3.0.1
+  file_picker: ^8.1.4
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.10
+  
+  flutter_dotenv: ^5.1.0
+  flutter_launcher_icons: ^0.14.1
+  http: ^1.2.2
+  http_parser: ^4.0.2
+  image_picker: ^1.0.5
+  mask_text_input_formatter: ^2.9.0
+  shared_preferences: ^2.0.7
+  supabase_flutter: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lint: ^2.3.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
+    - lib/components/logo.png
+    - lib/features/tutorial/tutorial_images/tutorial1.png
+    - lib/features/tutorial/tutorial_images/tutorial2.png
+    - lib/features/tutorial/tutorial_images/tutorial3.png
+    - lib/features/tutorial/tutorial_images/tutorial4.png
+    - lib/features/tutorial/tutorial_images/tutorial5.png
+    - lib/features/tutorial/tutorial_images/tutorial6.png
+  
